@@ -98,7 +98,7 @@ hr {
 }
 .container {
 
-	max-height: 47px;
+	max-height: 40px;
 	overflow: hidden;
 	transition: max-height .8s;
 }
