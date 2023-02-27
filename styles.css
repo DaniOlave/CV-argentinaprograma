@@ -131,8 +131,8 @@ ul li {
 }
 
 .fuentes {
-	position: absolute;
-	bottom: 0px;
+	position: relative;
+	bottom: -100px;
 
 }
 
